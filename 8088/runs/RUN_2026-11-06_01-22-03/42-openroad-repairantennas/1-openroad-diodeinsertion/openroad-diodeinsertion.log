@@ -1,0 +1,32 @@
+Reading timing models for corner nom_tt_025C_1v80…
+Reading timing library for the 'nom_tt_025C_1v80' corner at '/home/jeffrey/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading OpenROAD database at '/home/jeffrey/Documents/VLSI/Projects/Librelane_flow/8088v2/runs/RUN_2026-11-06_01-22-03/39-openroad-globalrouting/Micro8088.odb'…
+Reading design constraints file at '/home/jeffrey/Documents/VLSI/Projects/Librelane_flow/8088v2/constraints.sdc'…
+[INFO] No information on clock propagation in input SDC file-- propagating all clocks.
++ repair_antennas sky130_fd_sc_hd__diode_2 -iterations 3 -ratio_margin 10
+[INFO GRT-0012] Found 58 antenna violations.
+[INFO GRT-0302] Inserted 75 jumpers for 57 nets.
+[INFO GRT-0012] Found 7 antenna violations.
+[WARNING GRT-0243] Unable to repair antennas on net with diodes.
+[INFO GRT-0015] Inserted 22 diodes.
+[INFO GRT-0012] Found 19 antenna violations.
+[INFO GRT-0302] Inserted 21 jumpers for 19 nets.
+[INFO GRT-0012] Found 0 antenna violations.
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+[INFO ODB-0403] 88 connections made, 0 conflicts skipped.
+Updating metrics…
+Cell type report:                       Count       Area
+  Fill cell                               286    1073.53
+  Tap cell                               2175    2721.36
+  Antenna cell                             22      55.05
+  Buffer                                   20     100.10
+  Clock buffer                            138    1860.53
+  Timing Repair Buffer                   1283   12836.06
+  Inverter                                716    2687.58
+  Clock inverter                          607    2389.79
+  Sequential cell                         610   16012.86
+  Multi-Input combinational cell         5707   54860.12
+  Total                                 11564   94596.98
+Writing OpenROAD database to '/home/jeffrey/Documents/VLSI/Projects/Librelane_flow/8088v2/runs/RUN_2026-11-06_01-22-03/42-openroad-repairantennas/1-openroad-diodeinsertion/Micro8088.odb'…
+Writing layout to '/home/jeffrey/Documents/VLSI/Projects/Librelane_flow/8088v2/runs/RUN_2026-11-06_01-22-03/42-openroad-repairantennas/1-openroad-diodeinsertion/Micro8088.def'…

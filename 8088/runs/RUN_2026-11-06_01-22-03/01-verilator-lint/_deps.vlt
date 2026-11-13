@@ -1,0 +1,5 @@
+`verilator_config
+lint_off -rule DECLFILENAME
+lint_off -rule EOFNEWLINE
+lint_off -rule UNDRIVEN -file "/home/jeffrey/Documents/VLSI/Projects/Librelane_flow/8088v2/runs/RUN_2026-11-06_01-22-03/tmp/886651917d0d48c4b8bbde78ba0d90b5.bb.v"
+lint_off -rule UNUSEDSIGNAL -file "/home/jeffrey/Documents/VLSI/Projects/Librelane_flow/8088v2/runs/RUN_2026-11-06_01-22-03/tmp/886651917d0d48c4b8bbde78ba0d90b5.bb.v"

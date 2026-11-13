@@ -1,0 +1,1 @@
+openroad -exit -no_splash -metrics /home/jeffrey/Documents/VLSI/Projects/Librelane_flow/8088v2/runs/RUN_2026-11-06_01-22-03/21-openroad-generatepdn/or_metrics_out.json /nix/store/7zqpr7slgvjfjcqfabb2fmlpvc8k23ax-python3-3.13.9-env/lib/python3.13/site-packages/librelane/scripts/openroad/pdn.tcl

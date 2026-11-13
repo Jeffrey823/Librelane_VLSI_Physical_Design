@@ -1,0 +1,14 @@
+{
+    "json_h": "/home/jeffrey/Documents/VLSI/Projects/Librelane_flow/8088v2/runs/RUN_2026-11-06_01-22-03/05-yosys-jsonheader/Micro8088.h.json",
+    "nl": "/home/jeffrey/Documents/VLSI/Projects/Librelane_flow/8088v2/runs/RUN_2026-11-06_01-22-03/06-yosys-synthesis/Micro8088.nl.v",
+    "metrics": {
+        "design__lint_error__count": 0,
+        "design__lint_timing_construct__count": 0,
+        "design__lint_warning__count": 521,
+        "design__inferred_latch__count": 0,
+        "design__instance__count": 7602,
+        "design__instance__area": 75645.0496,
+        "design__instance_unmapped__count": 0,
+        "synthesis__check_error__count": 0
+    }
+}

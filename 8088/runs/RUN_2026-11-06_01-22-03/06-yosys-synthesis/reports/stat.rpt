@@ -1,0 +1,87 @@
+316. Printing statistics.
+
+=== Micro8088 ===
+
+        +----------Local Count, excluding submodules.
+        |        +-Local Area, excluding submodules.
+        |        | 
+     7582        - wires
+     7608        - wire bits
+      651        - public wires
+      677        - public wire bits
+       13        - ports
+       39        - port bits
+     7602 7.56E+04 cells
+       28  350.336   sky130_fd_sc_hd__a2111o_2
+        3   45.043   sky130_fd_sc_hd__a2111oi_2
+      128 1.28E+03   sky130_fd_sc_hd__a211o_2
+       23  287.776   sky130_fd_sc_hd__a211oi_2
+       46  460.442   sky130_fd_sc_hd__a21bo_2
+       11  123.869   sky130_fd_sc_hd__a21boi_2
+      203 1.78E+03   sky130_fd_sc_hd__a21o_2
+      233 2.04E+03   sky130_fd_sc_hd__a21oi_2
+      288  3243.11   sky130_fd_sc_hd__a221o_2
+        5   75.072   sky130_fd_sc_hd__a221oi_2
+      255 2.55E+03   sky130_fd_sc_hd__a22o_2
+       12  150.144   sky130_fd_sc_hd__a22oi_2
+       44  495.475   sky130_fd_sc_hd__a2bb2o_2
+       20  225.216   sky130_fd_sc_hd__a311o_2
+        2   30.029   sky130_fd_sc_hd__a311oi_2
+      107  937.149   sky130_fd_sc_hd__a31o_2
+        6   75.072   sky130_fd_sc_hd__a31oi_2
+       21  236.477   sky130_fd_sc_hd__a32o_2
+       13   146.39   sky130_fd_sc_hd__a41o_2
+      245 1.84E+03   sky130_fd_sc_hd__and2_2
+       98  858.323   sky130_fd_sc_hd__and2b_2
+      146  1.1E+03   sky130_fd_sc_hd__and3_2
+       11  110.106   sky130_fd_sc_hd__and3b_2
+        8   80.077   sky130_fd_sc_hd__and4_2
+        7   78.826   sky130_fd_sc_hd__and4b_2
+        5    62.56   sky130_fd_sc_hd__and4bb_2
+       20  100.096   sky130_fd_sc_hd__buf_2
+      588 1.54E+04   sky130_fd_sc_hd__dfrtp_2
+       19  499.229   sky130_fd_sc_hd__dfstp_2
+        3   63.811   sky130_fd_sc_hd__dfxtp_2
+     1265 4.75E+03   sky130_fd_sc_hd__inv_2
+      634 7.14E+03   sky130_fd_sc_hd__mux2_1
+      433 2.71E+03   sky130_fd_sc_hd__nand2_2
+       60  525.504   sky130_fd_sc_hd__nand2b_2
+       25   250.24   sky130_fd_sc_hd__nand3_2
+        1   11.261   sky130_fd_sc_hd__nand3b_2
+        3   37.536   sky130_fd_sc_hd__nand4_2
+      555  3472.08   sky130_fd_sc_hd__nor2_2
+       49   490.47   sky130_fd_sc_hd__nor3_2
+        3   37.536   sky130_fd_sc_hd__nor3b_2
+        3   37.536   sky130_fd_sc_hd__nor4_2
+       18  225.216   sky130_fd_sc_hd__o2111a_2
+        1   15.014   sky130_fd_sc_hd__o2111ai_2
+      109 1.09E+03   sky130_fd_sc_hd__o211a_2
+       11  137.632   sky130_fd_sc_hd__o211ai_2
+      152 1.33E+03   sky130_fd_sc_hd__o21a_2
+      175  1532.72   sky130_fd_sc_hd__o21ai_2
+       18  180.173   sky130_fd_sc_hd__o21ba_2
+       15  168.912   sky130_fd_sc_hd__o21bai_2
+       54  608.083   sky130_fd_sc_hd__o221a_2
+        2   30.029   sky130_fd_sc_hd__o221ai_2
+       91  910.874   sky130_fd_sc_hd__o22a_2
+       16  200.192   sky130_fd_sc_hd__o22ai_2
+       30  337.824   sky130_fd_sc_hd__o2bb2a_2
+       16  180.173   sky130_fd_sc_hd__o311a_2
+       61  610.586   sky130_fd_sc_hd__o31a_2
+       16  200.192   sky130_fd_sc_hd__o31ai_2
+       40  450.432   sky130_fd_sc_hd__o32a_2
+        4   65.062   sky130_fd_sc_hd__o32ai_2
+        5    62.56   sky130_fd_sc_hd__o41a_2
+        1   16.266   sky130_fd_sc_hd__o41ai_2
+      347 2.17E+03   sky130_fd_sc_hd__or2_2
+      131  983.443   sky130_fd_sc_hd__or3_2
+       45  394.128   sky130_fd_sc_hd__or3b_2
+       54  472.954   sky130_fd_sc_hd__or4_2
+       12  120.115   sky130_fd_sc_hd__or4b_2
+        3   37.536   sky130_fd_sc_hd__or4bb_2
+      401 6.52E+03   sky130_fd_sc_hd__xnor2_2
+      145 2.36E+03   sky130_fd_sc_hd__xor2_2
+
+   Chip area for module '\Micro8088': 75645.049600
+     of which used for sequential elements: 16012.857600 (21.17%)
+

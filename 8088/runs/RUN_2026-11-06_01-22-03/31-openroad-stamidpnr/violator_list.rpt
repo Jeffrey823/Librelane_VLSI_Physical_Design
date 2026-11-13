@@ -1,0 +1,72 @@
+
+===========================================================================
+Violator List
+============================================================================
+[hold in-reg] RST -> _14177_/RESET_B : -0.522729
+[hold in-reg] RST -> _14167_/RESET_B : -0.522165
+[hold in-reg] RST -> _14159_/RESET_B : -0.521484
+[hold in-reg] RST -> _14143_/RESET_B : -0.520520
+[hold in-reg] RST -> _14161_/RESET_B : -0.520156
+[hold in-reg] RST -> _14153_/RESET_B : -0.519323
+[hold in-reg] RST -> _14145_/RESET_B : -0.518881
+[hold in-reg] RST -> _13912_/RESET_B : -0.514592
+[hold in-reg] RST -> _13919_/RESET_B : -0.514498
+[hold in-reg] RST -> _13904_/RESET_B : -0.514481
+[hold in-reg] RST -> _13903_/RESET_B : -0.514339
+[hold in-reg] RST -> _13918_/RESET_B : -0.514337
+[hold in-reg] RST -> _13922_/RESET_B : -0.514106
+[hold in-reg] RST -> _13921_/RESET_B : -0.513653
+[hold in-reg] RST -> _14150_/RESET_B : -0.512839
+[hold in-reg] RST -> _14158_/RESET_B : -0.512729
+[hold in-reg] RST -> _14166_/RESET_B : -0.512660
+[hold in-reg] RST -> _13926_/RESET_B : -0.512207
+[hold in-reg] RST -> _13915_/RESET_B : -0.512066
+[hold in-reg] RST -> _14174_/RESET_B : -0.511954
+[hold in-reg] RST -> _13916_/RESET_B : -0.511932
+[hold in-reg] RST -> _13914_/RESET_B : -0.511622
+[hold in-reg] RST -> _14182_/RESET_B : -0.510869
+[hold in-reg] RST -> _14190_/RESET_B : -0.508653
+[hold in-reg] RST -> _14164_/RESET_B : -0.508552
+[hold in-reg] RST -> _14156_/RESET_B : -0.507929
+[hold in-reg] RST -> _14165_/RESET_B : -0.507915
+[hold in-reg] RST -> _14149_/RESET_B : -0.507786
+[hold in-reg] RST -> _14148_/RESET_B : -0.507752
+[hold in-reg] RST -> _14163_/RESET_B : -0.507080
+[hold in-reg] RST -> _14173_/RESET_B : -0.506112
+[hold in-reg] RST -> _14155_/RESET_B : -0.506073
+[hold in-reg] RST -> _14172_/RESET_B : -0.505496
+[hold in-reg] RST -> _14147_/RESET_B : -0.505476
+[hold in-reg] RST -> _14181_/RESET_B : -0.504918
+[hold in-reg] RST -> _14189_/RESET_B : -0.504836
+[hold in-reg] RST -> _14157_/RESET_B : -0.504545
+[hold in-reg] RST -> _14146_/RESET_B : -0.486622
+[hold in-reg] RST -> _14154_/RESET_B : -0.486341
+[hold in-reg] RST -> _14171_/RESET_B : -0.486204
+[hold in-reg] RST -> _14170_/RESET_B : -0.486087
+[hold in-reg] RST -> _14162_/RESET_B : -0.485282
+[hold in-reg] RST -> _14179_/RESET_B : -0.485124
+[hold in-reg] RST -> _14180_/RESET_B : -0.483890
+[hold in-reg] RST -> _14188_/RESET_B : -0.483643
+[hold in-reg] RST -> _14168_/RESET_B : -0.479771
+[hold in-reg] RST -> _14144_/RESET_B : -0.478452
+[hold in-reg] RST -> _14169_/RESET_B : -0.474883
+[hold in-reg] RST -> _14151_/RESET_B : -0.474676
+[hold in-reg] RST -> _14176_/RESET_B : -0.473797
+[hold in-reg] RST -> _14160_/RESET_B : -0.473662
+[hold in-reg] RST -> _14152_/RESET_B : -0.473529
+[hold in-reg] RST -> _14175_/RESET_B : -0.472090
+[hold in-reg] RST -> _14184_/RESET_B : -0.471899
+[hold in-reg] RST -> _14183_/RESET_B : -0.471880
+[hold in-reg] RST -> _14187_/RESET_B : -0.471853
+[hold in-reg] RST -> _14178_/RESET_B : -0.471300
+[hold in-reg] RST -> _14186_/RESET_B : -0.470957
+[hold in-reg] RST -> _14185_/RESET_B : -0.470926
+[hold in-reg] RST -> _13917_/SET_B : -0.349508
+[hold in-reg] RST -> _13920_/SET_B : -0.349132
+[hold in-reg] HOLD -> _13904_/D : -0.113013
+Writing metric timing__hold_vio__count__corner:nom_tt_025C_1v80: 62
+Writing metric timing__hold_r2r__ws__corner:nom_tt_025C_1v80: 0.207102
+Writing metric timing__hold_r2r_vio__count__corner:nom_tt_025C_1v80: 0
+Writing metric timing__setup_vio__count__corner:nom_tt_025C_1v80: 0
+Writing metric timing__setup_r2r__ws__corner:nom_tt_025C_1v80: 22.100559
+Writing metric timing__setup_r2r_vio__count__corner:nom_tt_025C_1v80: 0

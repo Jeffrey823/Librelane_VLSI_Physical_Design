@@ -1,0 +1,51 @@
+302. Printing statistics.
+
+=== Micro8088 ===
+
+        +----------Local Count, excluding submodules.
+        | 
+     9000 wires
+     9620 wire bits
+      291 public wires
+      903 public wire bits
+       13 ports
+       39 port bits
+     9504 cells
+     3066   $_ANDNOT_
+      190   $_AND_
+       16   $_DFFE_NP0N_
+      506   $_DFFE_NP0P_
+       17   $_DFFE_NP1P_
+        3   $_DFFE_NP_
+       57   $_DFFE_PP0P_
+        2   $_DFFE_PP1P_
+        7   $_DFF_NP0_
+        2   $_DFF_PP0_
+     1082   $_MUX_
+      178   $_NAND_
+      626   $_NOR_
+      324   $_NOT_
+      404   $_ORNOT_
+     1998   $_OR_
+      270   $_XNOR_
+      756   $_XOR_
+
+   Area for cell type $_ANDNOT_ is unknown!
+   Area for cell type $_AND_ is unknown!
+   Area for cell type $_DFFE_NP0N_ is unknown!
+   Area for cell type $_DFFE_NP0P_ is unknown!
+   Area for cell type $_DFFE_NP1P_ is unknown!
+   Area for cell type $_DFFE_NP_ is unknown!
+   Area for cell type $_DFFE_PP0P_ is unknown!
+   Area for cell type $_DFFE_PP1P_ is unknown!
+   Area for cell type $_DFF_NP0_ is unknown!
+   Area for cell type $_DFF_PP0_ is unknown!
+   Area for cell type $_MUX_ is unknown!
+   Area for cell type $_NAND_ is unknown!
+   Area for cell type $_NOR_ is unknown!
+   Area for cell type $_NOT_ is unknown!
+   Area for cell type $_ORNOT_ is unknown!
+   Area for cell type $_OR_ is unknown!
+   Area for cell type $_XNOR_ is unknown!
+   Area for cell type $_XOR_ is unknown!
+
